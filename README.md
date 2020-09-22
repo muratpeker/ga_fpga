@@ -23,14 +23,6 @@ These parameters are located in folder `./pkgs/types.vhd`.
 If you want to use this work, please consider citing the following [paper](http://www.sciencedirect.com/science/article/pii/S1568494617305835).
 
 ```
-@InProceedings{Li_2020_WACV,
-    author = {Li, Liangzhi and Verma, Manisha and Nakashima, Yuta and Nagahara, Hajime and Kawasaki, Ryo},
-    title = {IterNet: Retinal Image Segmentation Utilizing Structural Redundancy in Vessel Networks},
-    booktitle = {The IEEE Winter Conference on Applications of Computer Vision (WACV)},
-    month = {March},
-    year = {2020}
-}
-
 @article{PEKER20181066,
 author = "Murat Peker",
 title = "A fully customizable hardware implementation for general purpose genetic algorithms",
