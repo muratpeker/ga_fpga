@@ -1,4 +1,4 @@
-# FC-GPA on FPGA
+# FC-GPGA on FPGA
 
 
 ## A fully customizable hardware implementation for general-purpose genetic algorithms
