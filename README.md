@@ -15,7 +15,7 @@ Fig.2 The block scheme of the proposed FPGA IP core design.
 
 ## The customizable parameters of the proposed FPGA IP core.
 ![Block Scheme](./imgs/table1.jpg)
-These parameters could be found in folder `./pkgs/types.vhd`.
+These parameters are located in folder `./pkgs/types.vhd`.
 
 
 ## Publication
